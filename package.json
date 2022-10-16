@@ -1,0 +1,19 @@
+{
+  "name": "avantage-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypres": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.10.0",
+    "eslint": "^8.25.0",
+    "eslint-plugin-cypress": "^2.12.1",
+    "prettier": "^2.7.1"
+  }
+}
